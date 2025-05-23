@@ -1,0 +1,11 @@
+#EXTM3U
+
+# Radio Sachsenanhalt (RSA)
+#EXTINF:-1,RSA Radio Brocken
+http://stream.radiobrocken.de/live/mp3-192/direktlive
+#EXTINF:-1,RSA 89.0 RTL
+http://stream.89.0rtl.de/live/mp3-192/direktlive
+#EXTINF:-1,RSA Radio SAW
+http://stream.radiosaw.de/saw-live/mp3-192/direktlive
+#EXTINF:-1,RSA Rockland Sachsen-Anhalt
+http://stream.rockland-digital.de/rockland/mp3-192/direktlive

@@ -42,6 +42,12 @@
 - **MDR JUMP**
 - **MDR KULTUR**
 
+## Radio Sachsenanhalt (RSA)
+- **RSA Radio Brocken**
+- **RSA 89.0 RTL**
+- **RSA Radio SAW**
+- **RSA Rockland Sachsen-Anhalt**
+
 ## Privatsender
 - **Antenne Bayern**
 - **Radio Hamburg**

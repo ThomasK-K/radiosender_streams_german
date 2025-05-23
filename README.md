@@ -11,20 +11,23 @@ Eine Sammlung von Streaming-URLs deutscher Radiosender, organisiert nach Kategor
 ```
 .
 ├── german/                      # Öffentlich-rechtliche und private Radiosender
-│   ├── 01_deutschlandfunk.m3u  # Deutschlandfunk-Familie
-│   ├── 02_wdr.m3u             # Westdeutscher Rundfunk
-│   ├── 03_ndr.m3u             # Norddeutscher Rundfunk
-│   ├── 04_br.m3u              # Bayerischer Rundfunk
-│   ├── 05_hr.m3u              # Hessischer Rundfunk
-│   ├── 06_swr.m3u             # Südwestrundfunk
-│   ├── 07_mdr.m3u             # Mitteldeutscher Rundfunk
-│   └── 08_privatsender.m3u    # Private Radiosender
+│   ├── deutschlandfunk.m3u     # Deutschlandfunk-Familie
+│   ├── wdr.m3u                # Westdeutscher Rundfunk
+│   ├── ndr.m3u                # Norddeutscher Rundfunk
+│   ├── br.m3u                 # Bayerischer Rundfunk
+│   ├── hr.m3u                 # Hessischer Rundfunk
+│   ├── swr.m3u                # Südwestrundfunk
+│   ├── mdr.m3u                # Mitteldeutscher Rundfunk
+│   ├── rsa.m3u                # Radio Sachsen-Anhalt
+│   └── privatsender.m3u       # Private Radiosender
 │
 ├── rock_metal/                 # Rock und Metal Radiosender
 │   ├── delta_radio.m3u        # Delta Radio Familie
 │   ├── radio_bob.m3u          # Radio BOB! Familie
 │   ├── star_fm.m3u            # Star FM Familie
 │   ├── rock_antenne.m3u       # Rock Antenne Familie
+│   ├── lautfm.m3u            # Laut.fm Metal & Rock Streams
+│   ├── oeffentlich_rechtliche.m3u  # Öffentlich-rechtliche Rocksender
 │   └── other_rock.m3u         # Weitere Rock-Sender
 │
 ├── german_radio_streams.md     # Übersicht aller deutschen Radiosender
@@ -38,14 +41,19 @@ Eine Sammlung von Streaming-URLs deutscher Radiosender, organisiert nach Kategor
 - **WDR**: 1LIVE, WDR 2-5
 - **NDR**: NDR 1, NDR 2, NDR Kultur, N-JOY
 - **BR**: Bayern 1-3, BR-Klassik
-- **HR**: hr1-4
+- **HR**: hr1-4, hr-info
 - **SWR**: SWR1-4 BW
 - **MDR**: MDR SACHSEN, MDR JUMP, MDR KULTUR
+- **RSA**: Radio Brocken, 89.0 RTL, Radio SAW, Rockland
+- **RSA**: Radio Brocken, 89.0 RTL, Radio SAW, Rockland
 
 ### Rock & Metal Sender
 - **Delta Radio**: Hauptsender und HEAVY
 - **Radio BOB!**: 15 Spartensender (Metal, Classic Rock, Hardrock, etc.)
 - **Star FM**: 13 Spartensender (Rock, Metal, Alternative, etc.)
+- **Rock Antenne**: 15 Spartensender (Heavy Metal, Alternative, Classic Rock, etc.)
+- **Laut.fm**: Verschiedene Metal & Rock Streams
+- **Öffentlich-rechtliche**: Bremen NEXT, Fritz (RBB), DASDING (SWR)
 
 ## Format
 
