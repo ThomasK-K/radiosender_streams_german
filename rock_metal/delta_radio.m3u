@@ -1,0 +1,6 @@
+#EXTM3U
+# Delta Radio Familie
+#EXTINF:-1,Delta Radio
+https://streams.deltaradio.de/delta-live/mp3-192/streams.deltaradio.de
+#EXTINF:-1,Delta Radio HEAVY
+https://streams.deltaradio.de/heavy/mp3-192/streams.deltaradio.de

@@ -1,0 +1,13 @@
+#EXTM3U
+
+# HR (Hessischer Rundfunk)
+#EXTINF:-1,hr1
+https://dispatcher.rndfnk.com/hr/hr1/live/mp3/128/stream.mp3
+#EXTINF:-1,hr2
+https://dispatcher.rndfnk.com/hr/hr2/live/mp3/128/stream.mp3
+#EXTINF:-1,hr3
+https://dispatcher.rndfnk.com/hr/hr3/live/mp3/128/stream.mp3
+#EXTINF:-1,hr4
+https://dispatcher.rndfnk.com/hr/hr4/live/mp3/128/stream.mp3
+#EXTINF:-1,hr-info
+https://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/128/stream.mp3

@@ -1,0 +1,28 @@
+#EXTM3U
+# Star FM Familie
+#EXTINF:-1,Star FM Berlin
+https://stream.starfm.de/berlin/mp3-192/
+#EXTINF:-1,Star FM Rock
+https://stream.starfm.de/rock/mp3-192/
+#EXTINF:-1,Star FM Alternative
+https://stream.starfm.de/alternative/mp3-192/
+#EXTINF:-1,Star FM From Hell
+https://stream.starfm.de/fromhell/mp3-192/
+#EXTINF:-1,Star FM Blues
+https://stream.starfm.de/blues/mp3-192/
+#EXTINF:-1,Star FM Classic
+https://stream.starfm.de/classic/mp3-192/
+#EXTINF:-1,Star FM Grunge
+https://stream.starfm.de/grunge/mp3-192/
+#EXTINF:-1,Star FM Hard Rock
+https://stream.starfm.de/hardrock/mp3-192/
+#EXTINF:-1,Star FM Heavy Metal 
+https://stream.starfm.de/metal/mp3-192/
+#EXTINF:-1,Star FM Mitteldeutschland
+https://stream.starfm.de/mitteldeutschland/mp3-192/
+#EXTINF:-1,Star FM Nürnberg
+https://stream.starfm.de/nuernberg/mp3-192/
+#EXTINF:-1,Star FM Nu Metal
+https://stream.starfm.de/numetal/mp3-192/
+#EXTINF:-1,Star FM Punk
+https://stream.starfm.de/punk/mp3-192/

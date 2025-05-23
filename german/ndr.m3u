@@ -1,0 +1,11 @@
+#EXTM3U
+
+# NDR
+#EXTINF:-1,NDR 1 Niedersachsen
+https://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3
+#EXTINF:-1,NDR 2
+https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3
+#EXTINF:-1,NDR Kultur
+https://icecast.ndr.de/ndr/ndrkultur/live/mp3/128/stream.mp3
+#EXTINF:-1,N-JOY
+https://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3

@@ -1,0 +1,11 @@
+#EXTM3U
+
+# SWR (Südwestrundfunk)
+#EXTINF:-1,SWR1 BW
+https://dispatcher.rndfnk.com/swr/swr1/bw/mp3/128/stream.mp3
+#EXTINF:-1,SWR2
+https://dispatcher.rndfnk.com/swr/swr2/live/mp3/128/stream.mp3
+#EXTINF:-1,SWR3
+https://dispatcher.rndfnk.com/swr/swr3/live/mp3/128/stream.mp3
+#EXTINF:-1,SWR4 BW
+https://dispatcher.rndfnk.com/swr/swr4/bw/mp3/128/stream.mp3

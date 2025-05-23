@@ -1,0 +1,13 @@
+#EXTM3U
+
+# WDR
+#EXTINF:-1,WDR 1LIVE
+https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3
+#EXTINF:-1,WDR 2
+https://wdr-wdr2-rheinland.icecastssl.wdr.de/wdr/wdr2/rheinland/mp3/128/stream.mp3
+#EXTINF:-1,WDR 3
+https://wdr-wdr3-live.icecastssl.wdr.de/wdr/wdr3/live/mp3/128/stream.mp3
+#EXTINF:-1,WDR 4
+https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3
+#EXTINF:-1,WDR 5
+https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3

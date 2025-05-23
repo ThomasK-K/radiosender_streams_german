@@ -1,0 +1,68 @@
+#EXTM3U
+# Laut.fm Metal Streams
+#EXTINF:-1,Metal
+http://stream.laut.fm/metal
+#EXTINF:-1,Metal Hammer
+http://stream.laut.fm/metal-hammer
+#EXTINF:-1,Metal Rock
+http://stream.laut.fm/metal-rock
+#EXTINF:-1,Metal Only
+http://stream.laut.fm/metal-only
+#EXTINF:-1,Metalhead
+http://stream.laut.fm/metalhead
+#EXTINF:-1,Mittelalter Metal
+http://stream.laut.fm/mittelalter-metal
+#EXTINF:-1,Heavy Metal
+http://stream.laut.fm/heavy-metal
+#EXTINF:-1,Death Metal
+http://stream.laut.fm/death-metal
+#EXTINF:-1,Black Metal
+http://stream.laut.fm/black-metal
+#EXTINF:-1,Power Metal
+http://stream.laut.fm/power-metal
+#EXTINF:-1,Thrash Metal
+http://stream.laut.fm/thrash-metal
+#EXTINF:-1,Deutsche Metal
+http://stream.laut.fm/deutsche-metal
+
+# Progressive Rock Streams
+#EXTINF:-1,Progressive Rock
+http://stream.laut.fm/progressive-rock
+#EXTINF:-1,Progressive
+http://stream.laut.fm/progressive
+#EXTINF:-1,Prog Rock
+http://stream.laut.fm/progrock
+#EXTINF:-1,Art Rock
+http://stream.laut.fm/art-rock
+#EXTINF:-1,Progressive Metal
+http://stream.laut.fm/progressive-metal
+
+# Hard Rock Streams
+#EXTINF:-1,Hard Rock
+http://stream.laut.fm/hard-rock
+#EXTINF:-1,Classic Hard Rock
+http://stream.laut.fm/classic-hard-rock
+#EXTINF:-1,Rock Hard
+http://stream.laut.fm/rock-hard
+#EXTINF:-1,Rock Antenne
+http://stream.laut.fm/rock-antenne
+#EXTINF:-1,100% Hard Rock
+http://stream.laut.fm/100-hard-rock
+#EXTINF:-1,Rock Zone
+http://stream.laut.fm/rockzone
+#EXTINF:-1,Rock Station
+http://stream.laut.fm/rockstation
+
+# Verwandte Genres
+#EXTINF:-1,Gothic Metal
+http://stream.laut.fm/gothic-metal
+#EXTINF:-1,Symphonic Metal
+http://stream.laut.fm/symphonic-metal
+#EXTINF:-1,Industrial Metal
+http://stream.laut.fm/industrial-metal
+#EXTINF:-1,Viking Metal
+http://stream.laut.fm/viking-metal
+#EXTINF:-1,Nu Metal
+http://stream.laut.fm/nu-metal
+#EXTINF:-1,Doom Metal
+http://stream.laut.fm/doom-metal

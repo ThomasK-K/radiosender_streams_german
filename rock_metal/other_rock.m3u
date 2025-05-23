@@ -1,0 +1,6 @@
+#EXTM3U
+# Weitere Rock-Sender
+#EXTINF:-1,Rockin24
+https://server1.rockin24.de/stream
+#EXTINF:-1,Pure FM Metal
+http://ice.purefm.com:8000/metal

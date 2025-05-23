@@ -1,0 +1,11 @@
+#EXTM3U
+
+# BR (Bayerischer Rundfunk)
+#EXTINF:-1,Bayern 1
+https://dispatcher.rndfnk.com/br/br1/obb/mp3/mid
+#EXTINF:-1,Bayern 2
+https://dispatcher.rndfnk.com/br/br2/sued/mp3/mid
+#EXTINF:-1,Bayern 3
+https://dispatcher.rndfnk.com/br/br3/live/mp3/mid
+#EXTINF:-1,BR-Klassik
+https://dispatcher.rndfnk.com/br/brklassik/live/mp3/mid

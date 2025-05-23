@@ -1,0 +1,9 @@
+#EXTM3U
+
+# MDR (Mitteldeutscher Rundfunk)
+#EXTINF:-1,MDR SACHSEN
+https://mdr-284320-0.sslcast.mdr.de/mdr/284320/0/mp3/high/stream.mp3
+#EXTINF:-1,MDR JUMP
+https://mdr-284320-2.sslcast.mdr.de/mdr/284320/2/mp3/high/stream.mp3
+#EXTINF:-1,MDR KULTUR
+https://mdr-284310-0.sslcast.mdr.de/mdr/284310/0/mp3/high/stream.mp3

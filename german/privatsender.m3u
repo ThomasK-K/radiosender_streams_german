@@ -1,0 +1,11 @@
+#EXTM3U
+
+# Privatsender
+#EXTINF:-1,Antenne Bayern
+https://stream.antenne.de/antenne/stream/mp3
+#EXTINF:-1,Radio Hamburg
+https://stream.radiohamburg.de/rhh-live/mp3-128/stream.mp3
+#EXTINF:-1,FFH
+https://streams.ffh.de/radioffh/mp3/hqlivestream.mp3
+#EXTINF:-1,Radio 7
+https://stream.radio7.de/stream1/livestream.mp3

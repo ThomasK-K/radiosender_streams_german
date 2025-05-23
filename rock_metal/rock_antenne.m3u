@@ -1,0 +1,33 @@
+#EXTM3U
+# ROCK ANTENNE Familie
+#EXTINF:-1,ROCK ANTENNE
+https://stream.rockantenne.de/rockantenne/stream/mp3
+#EXTINF:-1,ROCK ANTENNE Österreich
+https://stream.rockantenne.at/rockantenne-oesterreich/stream/mp3
+#EXTINF:-1,ROCK ANTENNE Heavy Metal
+https://stream.rockantenne.de/heavy-metal/stream/mp3
+#EXTINF:-1,ROCK ANTENNE Alternative
+https://stream.rockantenne.de/alternative/stream/mp3
+#EXTINF:-1,ROCK ANTENNE Classic Perlen
+https://stream.rockantenne.de/classic-perlen/stream/mp3
+#EXTINF:-1,ROCK ANTENNE Deutsch Rock
+https://stream.rockantenne.de/deutschrock/stream/mp3
+#EXTINF:-1,ROCK ANTENNE Blues Rock
+https://stream.rockantenne.de/blues-rock/stream/mp3
+#EXTINF:-1,ROCK ANTENNE 80er Rock
+https://stream.rockantenne.de/80er-rock/stream/mp3
+#EXTINF:-1,ROCK ANTENNE 90er Rock
+https://stream.rockantenne.de/90er-rock/stream/mp3
+#EXTINF:-1,ROCK ANTENNE Live
+https://stream.rockantenne.de/live/stream/mp3
+#EXTINF:-1,ROCK ANTENNE Rock'n'Roll
+https://stream.rockantenne.de/rock-n-roll/stream/mp3
+#EXTINF:-1,ROCK ANTENNE Cover Songs
+https://stream.rockantenne.de/cover-songs/stream/mp3
+#EXTINF:-1,ROCK ANTENNE Modern Rock
+https://stream.rockantenne.de/modern-rock/stream/mp3
+#EXTINF:-1,ROCK ANTENNE Punk
+https://stream.rockantenne.de/punk/stream/mp3
+#EXTINF:-1,ROCK ANTENNE Guitar Heroes
+https://stream.rockantenne.de/guitar-heroes/stream/mp3
+
